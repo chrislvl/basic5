@@ -1,0 +1,29 @@
+Content/AdvancedVillagePack
+Content/GrassLandscape
+Content/MS_NorForest3
+Content/ParagonMorigesh
+Content/PN_coniferBushes_I
+Content/Test
+Content/LogCabin
+DerivedDataCache
+WindowsNoEditor
+
+Content/PhotoR*
+Content/Ruins
+
+# Unreal Engine
+/Binaries/
+/Build/
+/*/DerivedDataCache/
+/Intermediate/
+/Saved/
+
+# Starter Content
+/*/Content/StarterContent/
+
+# Visual Studio
+/*/*.sln
+/*/.vs/
+/*/*.VC.db
+/*/*.VC.VC.opendb
+Intermediate/CachedAssetRegistry.bin
