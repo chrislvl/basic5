@@ -12,6 +12,10 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "ControlRig",
+			"Enabled": true
 		}
 	]
 }
