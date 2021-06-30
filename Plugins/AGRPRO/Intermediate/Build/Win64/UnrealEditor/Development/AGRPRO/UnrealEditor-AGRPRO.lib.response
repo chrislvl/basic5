@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AGRPRO.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\_Media\welevel\gasagr\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\_Media\welevel\gasagr\Plugins\AGRPRO\Intermediate\Build\Win64\UnrealEditor\Development\AGRPRO\Module.AGRPRO.cpp.obj"
+"D:\_Media\welevel\gasagr\Plugins\AGRPRO\Intermediate\Build\Win64\UnrealEditor\Development\AGRPRO\Module.AGRPRO.gen.cpp.obj"
+"D:\_Media\welevel\gasagr\Plugins\AGRPRO\Intermediate\Build\Win64\UnrealEditor\Development\AGRPRO\Default.rc2.res"
+/OUT:"D:\_Media\welevel\gasagr\Plugins\AGRPRO\Intermediate\Build\Win64\UnrealEditor\Development\AGRPRO\UnrealEditor-AGRPRO.lib"
+/INCLUDE:IMPLEMENT_MODULE_AGRPRO

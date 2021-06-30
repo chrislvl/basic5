@@ -1,0 +1,183 @@
+D:\_Media\welevel\gasagr\Plugins\AGRPRO\Intermediate\Build\Win64\UnrealEditor\Development\AGRPRO\Definitions.AGRPRO.h
+D:/_Media/welevel/gasagr/Plugins/AGRPRO/Source/AGRPRO/Private/AGRPRO.cpp
+D:\_Media\welevel\gasagr\Plugins\AGRPRO\Source\AGRPRO\Public\AGRPRO.h
+D:/_Media/welevel/gasagr/Plugins/AGRPRO/Source/AGRPRO/Private/Animation/AGRCoreAnimInstance.cpp
+D:\_Media\welevel\gasagr\Plugins\AGRPRO\Source\AGRPRO\Public\Animation/AGRCoreAnimInstance.h
+D:\_Media\welevel\gasagr\Plugins\AGRPRO\Source\AGRPRO\Public\Components/AGRAnimMasterComponent.h
+D:\_Media\welevel\gasagr\Plugins\AGRPRO\Source\AGRPRO\Public\Data/AGREnums.h
+D:\_Media\welevel\gasagr\Plugins\AGRPRO\Intermediate\Build\Win64\UnrealEditor\Inc\AGRPRO\AGREnums.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\GameplayTags\Public\GameplayTags.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagsManager.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\GameplayTags\GameplayTagContainer.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\DataTable.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\GameplayTags\GameplayTagsManager.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagAssetInterface.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\GameplayTags\GameplayTagAssetInterface.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementComponent.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\RootMotionSource.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationAvoidanceTypes.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\NavigationAvoidanceTypes.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Public\AI/RVOAvoidanceInterface.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\RVOAvoidanceInterface.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/PawnMovementComponent.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/NavMovementComponent.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\AI/Navigation/PathFollowingAgentInterface.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\PathFollowingAgentInterface.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\MovementComponent.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\NavMovementComponent.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\PawnMovementComponent.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\CharacterMovementReplication.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Interfaces/NetworkPredictionInterface.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\NetworkPredictionInterface.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\CharacterMovementComponent.generated.h
+D:\_Media\welevel\gasagr\Plugins\AGRPRO\Intermediate\Build\Win64\UnrealEditor\Inc\AGRPRO\AGRAnimMasterComponent.generated.h
+D:\_Media\welevel\gasagr\Plugins\AGRPRO\Intermediate\Build\Win64\UnrealEditor\Inc\AGRPRO\AGRCoreAnimInstance.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\Character.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Kismet/KismetMathLibrary.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\KismetMathLibrary.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Kismet\KismetMathLibrary.inl
+D:/_Media/welevel/gasagr/Plugins/AGRPRO/Source/AGRPRO/Private/Characters/AGRCharacter.cpp
+D:\_Media\welevel\gasagr\Plugins\AGRPRO\Source\AGRPRO\Public\Characters/AGRCharacter.h
+D:\_Media\welevel\gasagr\Plugins\AGRPRO\Intermediate\Build\Win64\UnrealEditor\Inc\AGRPRO\AGRCharacter.generated.h
+D:/_Media/welevel/gasagr/Plugins/AGRPRO/Source/AGRPRO/Private/Components/AGRAnimMasterComponent.cpp
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\DialogueTypes.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\GameplayStatics.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h
+D:/_Media/welevel/gasagr/Plugins/AGRPRO/Source/AGRPRO/Private/Components/AGR_SoundMaster.cpp
+D:\_Media\welevel\gasagr\Plugins\AGRPRO\Source\AGRPRO\Public\Components/AGR_SoundMaster.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraComponent.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraCommon.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget2D.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Engine/TextureRenderTarget.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\TextureRenderTarget.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\TextureRenderTarget2D.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraTypes.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Engine/UserDefinedStruct.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UserDefinedStruct.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\Niagara\NiagaraTypes.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\NiagaraCore\Public\NiagaraCore.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakFieldPtr.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\Niagara\NiagaraCommon.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraComponentPool.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\Niagara\NiagaraComponentPool.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraSystemInstance.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraEmitterInstance.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraDataSet.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\VectorVM\Public\VectorVM.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\Niagara\NiagaraDataSet.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraEmitterHandle.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraModule.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraPerfBaseline.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Particles/ParticlePerfStats.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Particles/ParticlePerfStatsManager.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\Niagara\NiagaraPerfBaseline.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\Niagara\NiagaraEmitterHandle.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraEmitter.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraScript.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\NiagaraShader\Public\NiagaraScriptBase.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\NiagaraShader\NiagaraScriptBase.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\NiagaraShader\Public\NiagaraShared.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\NiagaraCore\Public\NiagaraCompileHash.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\NiagaraCore\NiagaraCompileHash.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\NiagaraCore\Public\NiagaraDataInterfaceBase.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\NiagaraCore\Public\NiagaraMergeable.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\NiagaraCore\NiagaraMergeable.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\NiagaraCore\NiagaraDataInterfaceBase.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\NiagaraShader\NiagaraShared.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\NiagaraShader\Public\NiagaraShader.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\NiagaraShader\Public\NiagaraShaderType.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Renderer\Public\SceneRenderTargetParameters.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\RenderCore\Public\RenderGraph.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\RenderCore\Public\RenderGraphResources.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\RenderCore\Public\RenderGraphParameter.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\RenderCore\Public\RenderGraphTextureSubresource.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\RHI\Public\RHITransientResourceAllocator.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\RenderCore\Public\RenderGraphResources.inl
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\RenderCore\Public\RenderGraphPass.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\RenderCore\Public\RenderGraphEvent.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\RenderCore\Public\RenderGraphEvent.inl
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\RenderCore\Public\RenderGraphParameters.inl
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\RenderCore\Public\RenderGraphBuilder.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\RenderCore\Public\RenderGraphTrace.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\RenderCore\Public\RenderGraphValidation.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\RenderCore\Public\RenderGraphBlackboard.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Core\Public\Misc/GeneratedTypeName.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\RenderCore\Public\RenderGraphBuilder.inl
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\RenderCore\Public\RenderGraphUtils.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\RenderCore\Public\ShaderParameterStruct.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraParameters.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\Niagara\NiagaraParameters.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraScriptExecutionParameterStore.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraDataInterface.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\Niagara\NiagaraDataInterface.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraParameterStore.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\Niagara\NiagaraParameterStore.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\Niagara\NiagaraScriptExecutionParameterStore.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraScriptHighlight.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\Niagara\NiagaraScriptHighlight.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\Niagara\NiagaraScript.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraMessageDataBase.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\Niagara\NiagaraMessageDataBase.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Public\INiagaraMergeManager.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraEffectType.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Public\InGamePerformanceTracker.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraPlatformSet.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\Niagara\NiagaraPlatformSet.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\Niagara\NiagaraEffectType.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraDataSetAccessor.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraBoundsCalculator.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraRendererProperties.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraGPUSortInfo.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Public\GPUSortManager.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\Niagara\NiagaraGPUSortInfo.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\Niagara\NiagaraRendererProperties.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\Niagara\NiagaraEmitter.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraScriptExecutionContext.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraSystem.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystem.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\ParticleSystem.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Classes\NiagaraParameterCollection.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\Niagara\NiagaraParameterCollection.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraUserRedirectionParameterStore.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\Niagara\NiagaraUserRedirectionParameterStore.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\Niagara\NiagaraSystem.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraDataInterfaceBindingInstance.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraVariant.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\Niagara\NiagaraVariant.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystemComponent.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Particles/Emitter.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\Emitter.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\ParticleSystemComponent.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\Niagara\NiagaraComponent.generated.h
+D:\_Media\welevel\gasagr\Plugins\AGRPRO\Intermediate\Build\Win64\UnrealEditor\Inc\AGRPRO\AGR_SoundMaster.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Source\Niagara\Public\NiagaraFunctionLibrary.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\Niagara\NiagaraFunctionLibrary.generated.h
+D:\_Media\welevel\gasagr\Plugins\AGRPRO\Source\AGRPRO\Public\Data/DA_AGR_FootstepConfig.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Sound/SoundCue.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Sound/SoundNode.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\SoundNode.generated.h
+D:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\SoundCue.generated.h
+D:\_Media\welevel\gasagr\Plugins\AGRPRO\Intermediate\Build\Win64\UnrealEditor\Inc\AGRPRO\DA_AGR_FootstepConfig.generated.h
+D:/_Media/welevel/gasagr/Plugins/AGRPRO/Source/AGRPRO/Private/Data/AGR_Footstep_Notify.cpp
+D:\_Media\welevel\gasagr\Plugins\AGRPRO\Source\AGRPRO\Public\Data/AGR_Footstep_Notify.h
+D:\_Media\welevel\gasagr\Plugins\AGRPRO\Intermediate\Build\Win64\UnrealEditor\Inc\AGRPRO\AGR_Footstep_Notify.generated.h
+D:/_Media/welevel/gasagr/Plugins/AGRPRO/Source/AGRPRO/Private/Data/DA_AGR_FootstepConfig.cpp
+D:/_Media/welevel/gasagr/Plugins/AGRPRO/Source/AGRPRO/Private/Data/DA_FootstepConfig.cpp
+D:\_Media\welevel\gasagr\Plugins\AGRPRO\Source\AGRPRO\Public\Data/DA_FootstepConfig.h
+D:\_Media\welevel\gasagr\Plugins\AGRPRO\Intermediate\Build\Win64\UnrealEditor\Inc\AGRPRO\DA_FootstepConfig.generated.h

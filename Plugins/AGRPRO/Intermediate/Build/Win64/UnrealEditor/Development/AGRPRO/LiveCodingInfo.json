@@ -1,0 +1,26 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AGRPRO.cpp.obj": [
+			"AGRPRO.cpp.obj",
+			"AGRCoreAnimInstance.cpp.obj",
+			"AGRCharacter.cpp.obj",
+			"AGRAnimMasterComponent.cpp.obj",
+			"AGR_SoundMaster.cpp.obj",
+			"AGR_Footstep_Notify.cpp.obj",
+			"DA_AGR_FootstepConfig.cpp.obj",
+			"DA_FootstepConfig.cpp.obj"
+		],
+		"Module.AGRPRO.gen.cpp.obj": [
+			"AGRAnimMasterComponent.gen.cpp.obj",
+			"AGRCharacter.gen.cpp.obj",
+			"AGRCoreAnimInstance.gen.cpp.obj",
+			"AGREnums.gen.cpp.obj",
+			"AGRPRO.init.gen.cpp.obj",
+			"AGR_Footstep_Notify.gen.cpp.obj",
+			"AGR_SoundMaster.gen.cpp.obj",
+			"DA_AGR_FootstepConfig.gen.cpp.obj",
+			"DA_FootstepConfig.gen.cpp.obj"
+		]
+	}
+}
